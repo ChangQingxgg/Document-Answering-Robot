@@ -1,0 +1,106 @@
+﻿question,ground_truth,source_url
+什么是电脑壁纸？,电脑壁纸，又名桌面背景，是电脑屏幕所使用的背景图片。它可以根据大小和分辨率进行调整，目的是让电脑看起来更好看、更具个性。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度壁纸
+如何在深度桌面环境中设置壁纸？,设置壁纸的具体方法可以参考《深度桌面环境帮助手册》中的“设置壁纸”章节。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度壁纸
+深度影院是什么软件？,深度影院是一款为用户提供直观易用操作界面的视频播放软件。它支持丰富的快捷键操作，可以播放多种格式的本地视频文件，并能通过流媒体功能播放在线网络视频。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度影院
+如何启动深度影院？,你可以通过以下方式启动深度影院：1. 点击启动器图标，在应用列表中找到并点击深度影院图标。2. 点击任务栏上已经默认固定的深度影院图标。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度影院
+如何在深度影院中播放在线视频？,首先复制网络视频的网址（URL），然后在深度影院界面点击右键，选择“打开URL”，将网址粘贴进去并点击“确定”即可播放在线视频。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度影院
+深度影院的迷你模式是什么，如何开启？,迷你模式是使用一个小窗口来播放视频，该窗口会默认置顶显示，方便用户在进行其他操作时同时观看视频。可以通过按 F2 键或在右键菜单中选择“迷你模式”来开启。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度影院
+视频的字幕和声音不同步怎么办？,可以在字幕设置中调整“同步调整（秒）”选项，或者使用快捷键 Shift + → (字幕提前0.5秒) 和 Shift + ← (字幕延迟0.5秒) 来进行微调，直到字幕与声音同步。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度影院
+如何让深度影院自动加载字幕文件？,"在字幕设置中，勾选“自动加载字幕”复选框。要使该功能生效，需要确保字幕文件（如.srt, .ass, .ssa格式）与视频文件名一致，并且存放在同一个目录下。",https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度影院
+如何让深度影院记住上次播放的位置？,在深度影院的设置中，进入“基础设置”，勾选“自动从上次停止位置播放”复选框。这样，下次打开同一个视频时，就会从上次关闭时的位置继续播放。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度影院
+什么是深度终端？,深度终端是深度科技开发的一款终端模拟器，它界面简洁，功能强大，支持瞬间启动关闭、雷神模式、多工作区、窗口分割以及远程文件管理等功能。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度终端
+打开深度终端的键盘快捷键是什么？,打开深度终端的快捷键是 Ctrl + Alt + T。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度终端
+深度终端的“雷神模式”是什么，如何触发？,雷神模式是深度终端的一个特色功能，可以快速从屏幕顶端呼出一个终端窗口。通过按下 Alt + F2 组合键可以打开或隐藏雷神模式的终端窗口，再次按下Alt+F2可以将其隐蔽；此外，也可以也可以通过右键单击任务栏上的深度终端图标，然后选择 “雷神终端”来打开雷神模式的终端窗口,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度终端
+如何在深度终端里分割出多个窗口？,你可以在终端界面点击右键，选择“纵向分屏”或“横向分屏”。也可以使用快捷键：Ctrl+Shift+J 进行纵向分屏，Ctrl+Shift+H 进行横向分屏。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度终端
+深度终端如何管理远程服务器？,深度终端内置了远程管理功能。你可以通过菜单或右键菜单打开“远程管理”，然后添加服务器信息（如服务器名、地址、用户名和密码）。添加后，只需点击列表中的服务器即可自动登录。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度终端
+如何使用深度终端向远程服务器上传或下载文件？,首先登录到远程服务器，然后在终端界面点击鼠标右键，选择“上传文件”并选取本地文件即可上传；或者选择“下载文件”，输入远程服务器上的文件路径和本地保存位置即可下载。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度终端
+如果深度终端出现字体乱码，应该如何解决？,终端出现乱码通常是由于字体问题。解决方法是在深度终端的设置中切换一种字体。可以点击菜单 > 设置 > 基础，然后在字体设置中选择另一种字体。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度终端
+如何在深度终端中新建和切换工作区？,你可以点击界面上的“+”号或右键选择“新建工作区”来创建新的工作区。切换工作区可以通过直接点击工作区标签，或使用快捷键 Ctrl + Tab 依次切换，或使用 Alt + 数字键（1-9）来选择对应的工作区。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度终端
+Vivaldi浏览器是什么？,Vivaldi是一款极速浏览器，其布局与Opera浏览器相似，拥有快速拨号、鼠标手势等功能，并且允许用户在屏幕截图上添加笔记。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/03_第三方开发的软件/05_网络相关/Vivaldi
+如何在deepin系统上安装Vivaldi浏览器？,你可以根据需要安装不同版本。安装稳定版请在终端执行 `sudo apt-get install vivaldi-stable`，安装测试版请执行 `sudo apt-get install vivaldi-beta`。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/03_第三方开发的软件/05_网络相关/Vivaldi
+怎样卸载Vivaldi浏览器？,卸载稳定版的命令是 `sudo apt-get remove vivaldi-stable`，卸载测试版的命令是 `sudo apt-get remove vivaldi-beta`。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/03_第三方开发的软件/05_网络相关/Vivaldi
+Vivaldi浏览器有哪些从Opera借鉴的功能？,Vivaldi浏览器的布局与Opera非常相似，并拥有一些Opera的功能，例如快速拨号界面和鼠标手势。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/03_第三方开发的软件/05_网络相关/Vivaldi
+为知笔记是什么软件？,为知笔记是一款云服务笔记软件，主要功能包括资料共享、沟通协作以及记录生活和工作，其重点是工作笔记和团队协作。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/03_第三方开发的软件/00_办公商业相关/为知笔记
+怎样卸载为知笔记？,在终端中执行命令 `sudo apt-get remove wiznote` 即可卸载为知笔记。或通过系统设置卸载。 打开“系统设置”，进入“应用”部分，在已安装的应用列表中找到“为知笔记”，点击进入其详情页，然后点击“卸载”按钮,https://wiki.deepin.org/01_软件wiki/00_GUI软件/03_第三方开发的软件/00_办公商业相关/为知笔记
+什么是Linux内核错误（Kernel panic）？,Linux内核错误（Kernel panic）是操作系统在监测到内部致命错误且无法安全处理时所采取的动作，类似于Windows系统中的蓝屏死机。此时，系统会输出错误信息，保存内存转储以供调试，并等待手动或自动重启。,https://wiki.deepin.org/01_软件wiki/03_linux内核/Linux内核错误
+如何让系统在发生内核错误后自动重启？,你可以通过编辑`/etc/sysctl.conf`文件，并加入`kernel.panic = <秒数>`这行配置来让系统在发生内核错误后自动重启。例如，`kernel.panic = 30`会使系统在发生错误30秒后自动重启。,https://wiki.deepin.org/01_软件wiki/03_linux内核/Linux内核错误
+什么是Magic SysRq键，它有什么用？,Magic SysRq键是一个组合键（通常是[ALT]+[SysRq]+[COMMAND]），用于在系统无响应时执行一些底层命令，如安全重启、同步文件系统或关机。需要在`/etc/sysctl.conf`文件中添加`kernel.sysrq=1`来激活它。,https://wiki.deepin.org/01_软件wiki/03_linux内核/Linux内核错误
+"遇到 ""Kernel Panic -- not syncing: attempted to kill idle task"" 错误可能是什么问题？",这个错误很可能不是软件问题，而是硬件问题，特别是与内存条相关。解决方法可以尝试运行memtest86测试内存，检查硬件温度，或者将内存条拔下后更换插槽位置再重新插入。,https://wiki.deepin.org/01_软件wiki/03_linux内核/Linux内核错误
+计算机内存主要分为哪几类？它们的主要区别是什么？,内存根据断电后数据是否保留，可以分为两类：易失性存储器和非易失性存储器。主要区别在于，易失性存储器在电源中断后数据会消失，而非易失性存储器的数据则不会。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/00_内部存储/内存入门
+常见的非易失性存储器（Non-volatile memory）有哪些例子？,常见的非易失性存储器包括ROM（只读存储器）、PROM（可编程只读存储器）、EPROM、EEPROM以及Flash memory（闪存）。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/00_内部存储/内存入门
+在deepin系统中，如何通过图形界面查看内存信息？,可以通过点击桌面上的“启动器”，然后打开“系统监视器”来查看内存信息。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/00_内部存储/内存入门
+有哪些常用的终端命令可以查看Linux系统的内存信息？,可以使用多个命令来查看内存信息，例如 `cat /proc/meminfo`、`free -m`、`vmstat`，以及 `dmidecode | grep -i mem` 等。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/00_内部存储/内存入门
+如何使用命令行快速查看系统的总内存量和空闲内存量？,你可以使用 `grep MemTotal /proc/meminfo` 命令查看内存总量，使用 `grep MemFree /proc/meminfo` 命令查看空闲内存量。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/00_内部存储/内存入门
+如何查看NVIDIA显卡的温度？,需要先安装NVIDIA的闭源驱动，然后在终端执行命令 `sudo nvidia-settings -q GPUCoreTemp -t` 即可查看GPU核心温度。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/05_显卡/显卡
+开源和闭源显卡驱动有什么区别？我应该安装闭源驱动吗？,系统默认的开源驱动兼容性和稳定性较好，而闭源驱动性能更强。如果你的系统运行正常，不建议安装闭源驱动，因为它可能带来一些副作用。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/05_显卡/显卡
+安装闭源驱动后，我的电脑无法进入图形界面了，该如何解决？,你需要进入恢复模式（recovery mode），在命令行中执行 `sudo apt-get autoremove --purge nvidia-*` 来彻底移除NVIDIA驱动及其配置文件。完成后，执行 `sudo reboot` 重启电脑，系统应会恢复使用默认的图形驱动。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/05_显卡/显卡
+在拥有Intel和ATI双显卡的笔记本上，如何禁用独立显卡？,可以通过vgaswitcheroo模块来操作。在终端中执行 `echo OFF > sudo /sys/kernel/debug/vgaswitcheroo/switch` 命令可以关闭当前未使用的显卡电源。为了实现开机自动禁用，可以将该命令添加到 `/etc/rc.local` 文件中。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/05_显卡/显卡
+安装闭源显卡驱动可能会带来哪些常见问题？,常见的副作用包括开机动画消失、分辨率异常、电脑温度大幅度上升等。如果自行从官网下载新版驱动安装，还可能遇到内核编译失败，导致系统无法进入图形界面的严重问题。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/05_显卡/显卡
+什么是主板？,主板，又称主机板或母板，是构成像电子计算机这类复杂电子系统的中心或主电路板。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/02_关于主板/主板
+主板通常由哪些主要部分构成？,主板的主要构成部分包括中央处理器（CPU）插槽、存储器插槽、南桥和北桥。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/02_关于主板/主板
+主板固件有哪两种主要类型？,目前主板固件主要有两种类型：一种是传统的“基本输入输出系统”（BIOS），另一种是其升级方案“统一可扩展固件接口”（UEFI）。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/02_关于主板/主板
+如何在Deepin或Linux系统中使用命令查看主板信息？,你可以在终端执行 `dmidecode | grep -i 'serial number'` 或 `cat /proc/pci` 命令来查看主板的相关信息。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/02_关于主板/主板
+什么是北桥芯片？,北桥芯片是主板芯片组的两枚芯片之一，专门设计用来处理如CPU、内存、显卡等高速信号，并负责与南桥芯片进行通信。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/02_关于主板/北桥芯片
+北桥芯片在主板上的主要功能是什么？,北桥芯片的主要功能是处理高速信号，包括CPU、内存、显卡、高速PCIE设备，并负责与南桥芯片之间的通信。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/02_关于主板/北桥芯片
+如何在主板上找到北桥芯片？,北桥芯片通常位于CPU插槽附近。由于其工作时发热量较大，上面一般都覆盖了散热片或散热风扇，可以依据此特征进行辨认。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/02_关于主板/北桥芯片
+为什么北桥芯片上通常会安装散热片或风扇？,因为北桥芯片需要处理的任务较多，导致其发热量较大，所以需要安装散热片或散热风扇来帮助其散热，保证稳定工作。,https://wiki.deepin.org/02_硬件wiki/00_硬件知识/02_关于主板/北桥芯片
+在戴尔(Dell)笔记本上安装Deepin时，为什么安装程序找不到我的硬盘？,这可能是因为您的戴尔笔记本（如XPS15或Precision 3530）的默认磁盘模式是RAID。您需要进入BIOS设置，将磁盘模式从RAID切换为ACHI，这样Deepin安装程序才能正常检测到硬盘。,https://wiki.deepin.org/02_硬件wiki/01_设备适配列表/兼容的笔记本型号
+华为或荣耀笔记本在Deepin系统下，指纹识别功能可以使用吗？,根据社区用户反馈，多款华为和荣耀笔记本，如MateBook X Pro、荣耀MagicBook Intel版、MateBook 13，在运行Deepin系统时，其指纹识别功能暂时不受支持。,https://wiki.deepin.org/02_硬件wiki/01_设备适配列表/兼容的笔记本型号
+我的联想笔记本安装Deepin后连不上WiFi怎么办？,如果您的联想笔记本无法使用WiFi，可能不一定是网卡驱动问题。有可能是联想的ideapad_laptop模块影响了无线硬件的开关。您可以尝试搜索“联想的ideapad_laptop影响了deepin无线wifi硬件的开关”来寻找解决方案。,https://wiki.deepin.org/02_硬件wiki/01_设备适配列表/兼容的笔记本型号
+荣耀MagicBook Amd R5版在运行Deepin时有哪些已知的问题？,荣耀MagicBook Amd R5版在Deepin上存在一些已知问题，包括：亮度无法调节（屏幕会很暗），合盖后有几率无法启动，触摸板不太灵敏，以及RTL8822CE网卡需要用户单独安装驱动。,https://wiki.deepin.org/02_硬件wiki/01_设备适配列表/兼容的笔记本型号
+小米笔记本在Deepin系统下是否支持指纹识别？,"根据列表信息，小米笔记本Air 13.3"" (i5-8250U) 和小米笔记本Pro 15.6"" (i5/i7) 的指纹功能在Deepin系统下均不被支持。",https://wiki.deepin.org/02_硬件wiki/01_设备适配列表/兼容的笔记本型号
+联想小新Air 14 2021锐龙版和Deepin的兼容性如何？,联想小新Air 14 2021锐龙版（AMD 5500U）与Deepin的兼容性较好，大部分硬件可以正常工作，但存在指纹识别无法使用的问题。,https://wiki.deepin.org/02_硬件wiki/01_设备适配列表/兼容的笔记本型号
+我的笔记本是ThinkPad X270，安装Deepin会有问题吗？,ThinkPad X270与Deepin的兼容性良好，但指纹登录功能不被支持。文档建议将系统安装在固态硬盘上以获得更快的启动速度。,https://wiki.deepin.org/02_硬件wiki/01_设备适配列表/兼容的笔记本型号
+惠普OMEN 暗影精灵4笔记本能安装Deepin吗？网卡能用吗？,可以安装。惠普OMEN 暗影精灵4（I7+1060）可以在开启安全启动的情况下安装Deepin。但其搭载的Intel 9560无线网卡需要去官网下载并手动安装驱动。,https://wiki.deepin.org/02_硬件wiki/01_设备适配列表/兼容的笔记本型号
+Deepin的软件仓库主要包含哪些组件？它们有什么不同？,Deepin的软件仓库主要包含三个组件：main（核心组件）、community（社区组件）和commercial（商业组件）。main是官方保证质量的核心软件；community是对main的补充，由社区爱好者使用，官方不保证修复bug或安全漏洞；commercial也是对main的补充，包含非官方编译的商业软件包。,https://wiki.deepin.org/03_技术规范/00_软件包与仓库管理规范/仓库流转规范
+Deepin官方维护哪几个不同版本的仓库？,Deepin官方至少维护三个发行版本仓库，分别是：“稳定版（stable）”、“测试版（testing）”和“不稳定版（unstable）”。,https://wiki.deepin.org/03_技术规范/00_软件包与仓库管理规范/仓库流转规范
+什么是稳定版（stable）仓库？它会获得新功能更新吗？,稳定版（stable）仓库包含了官方最近一次发行的软件包。它是一个非常稳定的版本，一旦发布，就不会增加新功能，只会接收安全漏洞的更新。,https://wiki.deepin.org/03_技术规范/00_软件包与仓库管理规范/仓库流转规范
+“不稳定版（unstable）”仓库有什么特点？使用它有什么优缺点？,“不稳定版（unstable）”是当前正在开发的版本。优点是用户可以体验到最新的软件技术；缺点是可能会遇到各种问题，需要用户自行修复。,https://wiki.deepin.org/03_技术规范/00_软件包与仓库管理规范/仓库流转规范
+一个软件包是如何从开发最终进入到稳定版（stable）仓库的？,软件包的流转过程如下：首先，开发者编译的软件包进入unstable仓库；在unstable中经过测试满足条件后，进入testing仓库；最后，当testing仓库足够成熟并被“冻结”修复到缺陷足够少时，才会被合并到stable仓库并正式发布。,https://wiki.deepin.org/03_技术规范/00_软件包与仓库管理规范/仓库流转规范
+如果发现了严重的安全漏洞（CVE），修复补丁会如何更新？,当进行CVE更新或紧急问题修复时，修复补丁在经过测试通过后，会由集成管理员确认，并同步推送到testing和stable两个仓库，以确保用户能尽快获得修复。,https://wiki.deepin.org/03_技术规范/00_软件包与仓库管理规范/仓库流转规范
+如何配置使用Deepin的testing或unstable仓库？,你可以通过修改软件源地址来使用。testing仓库地址是 `deb [trusted=yes] https://ci.deepin.com/repo/release/beige/ testing main`，unstable仓库地址是 `deb [trusted=yes] https://ci.deepin.com/repo/topics/beige/unstable/ unstable main`。,https://wiki.deepin.org/03_技术规范/00_软件包与仓库管理规范/仓库流转规范
+deepin社区版项目的主要开发分支是什么？,deepin社区版为滚动发布制，其主要开发分支（研发主干）是 `master` 分支。,https://wiki.deepin.org/03_技术规范/01_文档规范/Git分支命名规范
+deepin项目的发布分支是如何命名的？,当项目发布并有维护计划时，发布分支使用 `release/${系统版本代号}` 或 `release/${tag}` 的格式进行命名。,https://wiki.deepin.org/03_技术规范/01_文档规范/Git分支命名规范
+deepin的Git分支命名规范适用于哪些人？,此规范仅适用于具有直接向对应仓库推送权限的贡献者。对于通过Pull Request形式贡献代码的贡献者可以忽略此规范。,https://wiki.deepin.org/03_技术规范/01_文档规范/Git分支命名规范
+deepin项目遵循什么样的版本号约定？,deepin项目使用类似semver的版本号格式，具体为：主版本号.功能版本.修复版本。,https://wiki.deepin.org/03_技术规范/01_文档规范/Git分支命名规范
+什么是XDG基本目录规范？,XDG基本目录规范是一项通过定义一个或多个基本目录来确定各种文件（如数据、配置、缓存文件）应在何处查找的规范。,https://wiki.deepin.org/03_技术规范/02_XDG规范/XDG基本目录规范
+如果`$XDG_CONFIG_HOME`环境变量未设置，用户特定的配置文件应存储在哪里？,如果`$XDG_CONFIG_HOME`环境变量没有设置或为空，则应使用默认路径`$HOME/.config`来存储用户特定的配置文件。,https://wiki.deepin.org/03_技术规范/02_XDG规范/XDG基本目录规范
+`$XDG_DATA_HOME`和`$XDG_DATA_DIRS`有什么区别？,`$XDG_DATA_HOME`定义了存放用户特定数据文件的唯一基础目录，而`$XDG_DATA_DIRS`定义了一组按优先级排序的、用于搜索系统范围数据文件的基本目录。`$XDG_DATA_HOME`的优先级高于`$XDG_DATA_DIRS`中的任何目录。,https://wiki.deepin.org/03_技术规范/02_XDG规范/XDG基本目录规范
+`$XDG_RUNTIME_DIR`目录有哪些特殊要求？,`$XDG_RUNTIME_DIR`目录必须由用户拥有，权限为0700（只有所有者有读写权限）。它的生命周期与用户登录状态绑定，在用户首次登录时创建，完全注销后删除，并且必须位于本地文件系统上。,https://wiki.deepin.org/03_技术规范/02_XDG规范/XDG基本目录规范
+`$XDG_CACHE_HOME`目录的用途是什么？如果未设置，它的默认路径是什么？,`$XDG_CACHE_HOME`用于定义存储用户特定的非必要数据文件（缓存文件）的基本目录。如果该环境变量未设置或为空，则应使用默认值`$HOME/.cache`。,https://wiki.deepin.org/03_技术规范/02_XDG规范/XDG基本目录规范
+根据文档，UOS/deepin中实现了哪些XDG基本目录变量？,文档中通过echo命令显示，UOS/deepin实现了`$XDG_DATA_HOME`、`$XDG_CONFIG_HOME`、`$XDG_CACHE_HOME`和`$XDG_RUNTIME_DIR`，它们基本都使用了默认路径。而`$XDG_STATE_HOME`、`$XDG_DATA_DIRS`和`$XDG_CONFIG_DIRS`未实现。,https://wiki.deepin.org/03_技术规范/02_XDG规范/XDG基本目录规范
+向deepin-community提交代码的主要方式是什么？,所有对deepin-community的代码贡献都应该通过 GitHub 的 Fork + Pull Request 模式进行提交。,https://wiki.deepin.org/03_技术规范/03_其他规范/deepin-community代码提交说明
+如果我想提交一个只针对deepin环境的改动，应该怎么做？,针对deepin环境特有的改动应以patch文件的方式提交。如果这个patch后续被上游项目接受，那么就应该删除这个patch文件，并将代码直接合入源码中。,https://wiki.deepin.org/03_技术规范/03_其他规范/deepin-community代码提交说明
+在为deepin项目升级软件包版本时，需要注意什么？,升级包版本时，需要修改源码以同步上游新版本的代码，在commit中注明上游版本来源，并且必须保证原有的、针对deepin环境的特有patch能够正常应用。,https://wiki.deepin.org/03_技术规范/03_其他规范/deepin-community代码提交说明
+如何为deepin项目贡献安全漏洞的修复？,修复安全漏洞应采用打补丁的形式提交。如果上游项目已经合并了该修复补丁，那么就应该将这个patch合入到源码中，并通过软件包更新的流程发布到仓库。,https://wiki.deepin.org/03_技术规范/03_其他规范/deepin-community代码提交说明
+deepin新手入门有哪些推荐的教程？,文档中为新手整理了丰富的入门资源，包括但不限于《统信UOS家庭版｜新手安装锦囊》、《写给deepin小白的入门教程》以及多位社区用户分享的安装心得、问题归纳和基础配置教程，可以帮助新用户快速上手。,https://wiki.deepin.org/04_常见问题FAQ/deepin常用资源整理
+如何在Windows系统下安装deepin组成双系统？,文档的“系统安装”部分收录了多种双系统安装教程。内容涵盖官方安装指南、win10下的“小白”教程、双系统手动分区方法，以及解释为何推荐“先安装Windows再安装Linux”的帖子，为用户提供了全面的指导。,https://wiki.deepin.org/04_常见问题FAQ/deepin常用资源整理
+deepin系统与Windows双系统时间不一致怎么办？,文档中指出，解决deepin和Windows双系统时间不同步的最佳方案是修改Windows的注册表，将Windows的时间标准从默认的本地时间（Local Time）更改为UTC标准。因为除Windows外，绝大多数操作系统都默认使用UTC时间。,https://wiki.deepin.org/04_常见问题FAQ/deepin常用资源整理
+什么是玲珑？在哪里可以找到相关介绍？,玲珑（Linglong）是deepin v23引入的一种新的包管理工具集。文档中提供了玲珑的官方网站链接（linglong.dev），并收录了多篇深入介绍其方案、组件、权限管理机制以及与其他包管理方案对比的帖子。,https://wiki.deepin.org/04_常见问题FAQ/deepin常用资源整理
+如何在deepin上安装和配置Fcitx5输入法？,文档的“输入法”板块整理了多篇关于在deepin上使用Fcitx5的教程，包括手动编译、针对不同deepin版本的安装方法、使用技巧、简约皮肤分享，以及一个旨在让Fcitx5更符合简中用户使用习惯的优化脚本。,https://wiki.deepin.org/04_常见问题FAQ/deepin常用资源整理
+如何在deepin上运行Windows应用？,在deepin上可以通过Wine或deepin-wine来运行Windows应用。文档的“Wine”部分提供了丰富的资源，包括“Wine运行器”工具、deepin-wine应用打包器、适配知识库，以及解决Wine程序中文乱码、多开等问题的教程。,https://wiki.deepin.org/04_常见问题FAQ/deepin常用资源整理
+如何在deepin上运行安卓应用？,deepin系统可以通过UEngine或Waydroid来运行安卓应用。文档指出，UEngine是应用商店手机应用使用的引擎，但底层较旧；Waydroid是较新的替代方案，兼容性更好但门槛较高。文档中提供了这两款工具的运行器和相关教程。,https://wiki.deepin.org/04_常见问题FAQ/deepin常用资源整理
+deepin系统笔记本续航不好或电脑发热有什么优化方法？,文档的“性能和电源管理”部分提供了一些优化方案。例如，针对CPU无法自主降频问题、性能与功耗的权衡调整、使用ZRAM替代SWAP等，都有专门的帖子进行讨论和提供解决方案，如使用TLP进行电源优化。,https://wiki.deepin.org/04_常见问题FAQ/deepin常用资源整理
+我想给deepin系统进行美化，有哪些资源可以参考？,文档的“系统美化”章节提供了全面的美化资源。内容包括：壁纸（含动态壁纸软件和壁纸图片分享）、程序窗口（如修改标题栏高度）、Dock/顶栏定制、字体、图标主题、光标主题以及Grub启动界面的美化教程和资源。,https://wiki.deepin.org/04_常见问题FAQ/deepin常用资源整理
+deepin系统启动失败或显示BusyBox、emergency mode等错误怎么办？,文档的“系统引导和启动”部分收录了多种启动问题的解决方案。例如，针对启动显示“BusyBox”、Grub进入命令行、系统提示“You are in emergency mode”或“root account is locked”等常见启动失败问题，都提供了相应的修复教程链接。,https://wiki.deepin.org/04_常见问题FAQ/deepin常用资源整理
+使用Wine游戏助手玩全屏游戏后，桌面分辨率没有自动恢复怎么办？,在Wine游戏助手的设置中，勾选“退出时恢复分辨率”选项即可。这样设置后，下次退出全屏游戏时桌面分辨率就能自动恢复正常。,https://wiki.deepin.org/04_常见问题FAQ/Wine/【Wine游戏助手教程】全屏游戏退出后桌面分辨率没有自动恢复该怎么办
+什么是虚拟化技术？,虚拟化是一种资源管理技术，它将计算机的硬件资源（如CPU、内存、磁盘、网络）进行抽象和转换，从而允许在一台物理设备上划分出多台虚拟机器，以供用户更好地使用。,https://wiki.deepin.org/04_常见问题FAQ/虚拟机/KVM详解（一）——KVM基础知识
+虚拟化技术主要分为哪几类？,根据对硬件调用问题的解决方法不同，虚拟化技术主要分为三种：仿真虚拟化、半虚拟化和硬件虚拟化。,https://wiki.deepin.org/04_常见问题FAQ/虚拟机/KVM详解（一）——KVM基础知识
+什么是KVM？,KVM是Kernel Virtual Machine的简称，意为基于内核的虚拟机。它自Linux内核2.6.20版本后被集成，是一种需要CPU硬件（如Intel VT或AMD-V技术）支持的、基于硬件的完全虚拟化技术。在KVM中，每个虚拟机都作为一个标准的Linux进程由系统调度器管理。,https://wiki.deepin.org/04_常见问题FAQ/虚拟机/KVM详解（一）——KVM基础知识
+半虚拟化和硬件虚拟化有什么区别？,主要区别在于实现方式和对客户机操作系统的要求。半虚拟化需要修改客户机操作系统的内核，使其指令运行在用户态，客户机知道自己是虚拟机。而硬件虚拟化则依赖于CPU硬件（如Intel-VT）提供的新运行模式，使得未经修改的客户机操作系统也能直接执行内核态指令。,https://wiki.deepin.org/04_常见问题FAQ/虚拟机/KVM详解（一）——KVM基础知识
+KVM和QEMU是什么关系？,根据文档描述，KVM使用了与QEMU类似的仿模拟处理器。QEMU本身是一款由Fabrice Bellard编写的、遵循GPL协议的模拟处理器软件，具有跨平台和高速度的特性。,https://wiki.deepin.org/04_常见问题FAQ/虚拟机/KVM详解（一）——KVM基础知识
+如何在Linux系统上对CPU进行压力测试？,可以使用`stress`命令来使CPU处于高负载状态。例如，`stress -c 4`命令会让系统的4个CPU核心都处于高负载运算状态，这有助于测试CPU的性能极限以及系统在高负载下的响应能力。,https://wiki.deepin.org/05_HOW-TO/02_开发相关/Linux系统压力测试工具
+有哪些工具可以用来测试Linux系统的磁盘I/O性能？,文档提到了`fio`和`sysbench`两个工具。`fio`是一个功能强大的I/O性能测试工具，可以进行顺序读写、随机读写等多种测试。`sysbench`也可以用于测试磁盘I/O性能。,https://wiki.deepin.org/05_HOW-TO/02_开发相关/Linux系统压力测试工具
+如何使用`fio`工具测试磁盘的顺序读写性能？,可以通过`fio`命令并设置`-rw`参数来测试顺序读写。测试顺序读使用`-rw=read`，例如 `fio -name=read ... -rw=read ...`；测试顺序写使用`-rw=write`，例如 `fio -name=write ... -rw=write ...`。,https://wiki.deepin.org/05_HOW-TO/02_开发相关/Linux系统压力测试工具
+如何在两台Linux机器之间测试网络吞吐量？,可以使用`iperf3`工具。首先在一台机器上作为服务端启动，命令为 `iperf3 -s -p <端口号>`，然后在另一台机器上作为客户端连接服务端进行测试，命令为 `iperf3 -c <服务端IP> -p <端口号>`。,https://wiki.deepin.org/05_HOW-TO/02_开发相关/Linux系统压力测试工具
+如何在Linux系统上禁用特定的网络端口？,可以使用`iptables`命令来禁用端口。例如，使用`iptables -A INPUT -p tcp --dport 18004 -j DROP`可以禁用TCP协议的18004入口端口。使用`iptables -A OUTPUT -p tcp --sport 18004 -j DROP`可以禁用出口端口。,https://wiki.deepin.org/05_HOW-TO/02_开发相关/Linux系统压力测试工具
+stress工具有哪些增强版或者类似的替代工具？,文档中提到，`stress-ng`是`stress`的增强版。另外，`sysbench`也是一个可以用于测试CPU、内存和磁盘I/O性能的工具，尽管它主要用于数据库服务器的性能测试。,https://wiki.deepin.org/05_HOW-TO/02_开发相关/Linux系统压力测试工具
+深度商店是什么？,深度商店V4.0是武汉深之度科技有限公司打造的一款集应用展示、下载、安装、评论、评分于一体的应用程序。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度商店.md
+如何运行深度商店？,有两种方式：1. 点击任务栏上的启动器图标，找到深度商店图标并点击。 2. 点击任务栏上默认固定的深度商店图标。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度商店.md
+如何关闭深度商店？,有三种方式：1. 在深度商店界面，点击 × 关闭图标。 2. 右键单击任务栏上的商店图标，选择“关闭所有”。 3. 在深度商店界面，点击菜单栏中的“退出”选项。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度商店.md
+深度商店的主界面包含哪些部分？,深度商店主界面由导航栏、搜索框、首页轮播、首页栏目、专题应用、任务管理、菜单栏组成。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度商店.md
+在深度商店中对应用进行评论或评分需要什么前提条件？,用户必须登录到深度商店才能对应用进行评论或评分。评论和评分必须同时提交才能成功，并且对当前版本应用的评论和评分只能进行一次。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/01_deepin开发的软件/深度商店.md
+如何在deepin上安装MATLAB？,"""首先用高校EDU邮箱注册MathWorks账户获取许可证，然后下载Linux版本的安装包。在终端中使用unzip命令解压，然后执行./install命令启动安装程序，按照指引完成安装。",https://wiki.deepin.org/01_软件wiki/00_GUI软件/03_第三方开发的软件/04_教育科学相关/MATLAB.md
+如何解决MATLAB字体渲染不正常的问题？,首先安装openjdk-8-jre，然后在全局环境变量文件/etc/profile中添加export MATLAB_JAVA=/usr/lib/jvm/java-8-openjdk-amd64/jre，最后重启电脑。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/03_第三方开发的软件/04_教育科学相关/MATLAB.md
+在高分辨率屏幕上MATLAB文字显示太小怎么办？,打开MATLAB后，在命令行窗口执行s = settings;s.matlab.desktop.DisplayScaleFactor和s.matlab.desktop.DisplayScaleFactor.PersonalValue = 2这两条命令，然后重启MATLAB。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/03_第三方开发的软件/04_教育科学相关/MATLAB.md
+如何为MATLAB创建桌面快捷方式？,在桌面上创建一个名为MATLAB.desktop的文本文档，将指定的配置内容粘贴进去，并把Exec路径中的“你的用户名”替换成自己的账户用户名后保存。,https://wiki.deepin.org/01_软件wiki/00_GUI软件/03_第三方开发的软件/04_教育科学相关/MATLAB.md
